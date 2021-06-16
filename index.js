@@ -19,7 +19,7 @@ function school(firstName,lastName,age,callback){
 }
 school("Intwaza","Belyse",20,person);
 
-// from the above example you can seen how callback function works and I have said above a callback function is a function that is an argument of another functions, 
+// from the above example you can se how callback function works and I have said above a callback function is a function that is an argument of another functions, 
 // so this shows that a function can be passed as an argument of another function.
 
 
