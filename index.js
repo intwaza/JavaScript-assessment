@@ -49,5 +49,5 @@ lisaLab.func();
 //it will also give us undefined because inner function can not access global variable which is name 
 
 
-//4. this identifier has been used as a value of variable self and this identifier is globbal variable 
-// var self = this; allows code in a closure to refer back to the parent scope.
+//4. this identifier has been used as a value of variable self and this identifier is globbal variable which is used to refer to the name but it can used in the function where it is declared when it reaches to inner function it will be undefined
+//this is refering to the parent scope
