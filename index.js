@@ -2,7 +2,7 @@
 // As we know functions are objects and objects can be passed as an argument of functions, 
 //so this means that functions also can be passed as an argument of another function and function that passed as argument of another function is called a callback function.
 //Callback functions are functions that has been passed as an argument of another function
-// In the example below I have used setInterval which is a function and it taking another function as a parameter
+// In the example below I have used setInterval which is a function and it is taking another function as a parameter
 
 setInterval(function (){
     console.log("Hi");
